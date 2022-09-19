@@ -1,0 +1,16 @@
+{
+    "pokemons": [
+        {
+            "name": "Bulbasaur",
+            "health": 100
+        },
+        {
+            "name": "Squirtle",
+            "health": 100
+        }
+    ],
+    "team name": "User's Team",
+    "number of losses": 0,
+    "number of ties": 0,
+    "number of wins": 0
+}

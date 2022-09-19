@@ -1,0 +1,20 @@
+{
+    "pokemons": [
+        {
+            "name": "Chikorita",
+            "health": 100
+        },
+        {
+            "name": "Cyndaquil",
+            "health": 100
+        },
+        {
+            "name": "Totodile",
+            "health": 100
+        }
+    ],
+    "team name": "My Pokemon Team",
+    "number of losses": 79,
+    "number of ties": 23,
+    "number of wins": 600
+}
